@@ -1,0 +1,8 @@
+[Public]
+Preferences=(Caption="MiniMTL",Parent="Advanced Options")
+Preferences=(Caption="Notifications",Parent="MiniMTL",Class=MiniMTL233.MMNotifications,Immediate=True)
+Preferences=(Caption="TeamBalancer",Parent="MiniMTL",Class=MiniMTL233.MMTeamBalancer,Immediate=True)
+Preferences=(Caption="MOTD",Parent="MiniMTL",Class=MiniMTL233.MMMOTD,Immediate=True)
+Preferences=(Caption="Settings",Parent="MiniMTL",Class=MiniMTL233.miniMTLSettings,Immediate=True)
+Preferences=(Caption="NextMap",Parent="MiniMTL",Class=MiniMTL233.MMNextMap,Immediate=True)
+Preferences=(Caption="SpeedFix",Parent="MiniMTL",Class=MiniMTL233.MMSpeedFix,Immediate=True)
